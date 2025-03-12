@@ -1,0 +1,8 @@
+ls verificamos el contenido de la carpeta 
+cd nombre de la carpeta ingresa la carpeta
+cd.. devuelve a la anterior carpeta
+pwd la ruta completa de la carpeta
+git add . carga a la carpeta
+git status muestra el estado
+git commit -m "first commit" confirma los cambios guardados
+git push carga los cambios al repo
